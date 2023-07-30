@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Renewable Energy</title>
+        <style>
+            table{
+                background-color: aquamarine;
+            }
+            body{
+                background-image: url(https://cdn.pixabay.com/photo/2020/08/14/17/13/light-bulbs-5488573_1280.jpg);
+            }
+            h1{
+                color: white;
+            }
+            p{
+                font-size: 20px;
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>THE IMPORTANCE OF RENEWABLE ENERGY</h1>
+        <p>
+            <b>Renewable</b> is enenrgy derived from <i>natural sources that are replenished at a higher rate than they are consumed</i>.
+            <u>Sunlight and wind for example, are such sources that are constantly being replenished</u> . renewable energy sources are plentiful and all raound us.
+        </p>
+        <br>
+        <br>
+        <br>
+        <table>
+            <!-- table row -->
+            <tbody>
+                <tr>
+                    <th>Full Name</th>
+                    <th>Phone Number</th>
+                    <th>E-mail</th>
+                    <th>Address</th>
+                </tr>
+                <!-- table row -> data -->
+                <tr>
+                    <td>Nour Ahmed</td>
+                    <td>0123456789</td>
+                    <td>nour.ahmed@gmail.com</td>
+                    <td>Cairo</td>
+                </tr>
+                <tr>
+                    <td>Hamza Abdolaziz</td>
+                    <td>0123456789</td>
+                    <td>Hamza.abdolaziz@gmail.com</td>
+                    <td>Cairo</td>
+                </tr>
+                <tr>
+                    <td>Mohamed Abdullah</td>
+                    <td>0123456789</td>
+                    <td>Mohamed.abdullah@gmail.com</td>
+                    <td>Cairo</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
